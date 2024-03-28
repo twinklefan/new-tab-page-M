@@ -2,7 +2,7 @@
    "chrome_url_overrides": {
       "newtab": "index.html"
    },
-   "description": "Yet another new tab",
+   "description": "New tab page for mother chicken",
    "icons": {
       "128": "chrome2.png"
    },
