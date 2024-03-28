@@ -1,0 +1,16 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "Yet another new tab",
+   "icons": {
+      "128": "chrome2.png"
+   },
+   "background": {
+    "scripts": ["index.js"]
+},
+   "manifest_version": 2,
+   "name": "Yet another new tab",
+   "permissions": [ "storage", "bookmarks", "chrome://favicon/" ],
+   "version": "1"
+}
